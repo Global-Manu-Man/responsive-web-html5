@@ -13,7 +13,7 @@
     $ cd responsive-web-html5/
  
  -Start the repository in a specific directory.
- Emmanuel@LAPTOP-DAA68PVD MINGW64 /d/responsive-web-html5 (main)
+ Emmanuel@LAPTOP MINGW64 /d/responsive-web-html5 (main)
     
     $ git init
  
