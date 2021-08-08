@@ -13,7 +13,7 @@
     $ cd responsive-web-html5/
  
  -Start the repository in a specific directory.
- Emmanuel@LAPTOP MINGW64 /d/responsive-web-html5 (main)
+  Emmanuel@LAPTOP MINGW64 /d/responsive-web-html5 (main)
     
     $ git init
  
@@ -23,7 +23,7 @@
 
  
  -Apply a branch change
- Emmanuel@LAPTOP MINGW64 /d/responsive-web-html5 (main)
+  Emmanuel@LAPTOP MINGW64 /d/responsive-web-html5 (main)
    
     $ git checkout developer
     Switched to branch 'developer'
@@ -31,13 +31,16 @@
  Emmanuel@LAPTOP MINGW64 /d/responsive-web-html5 (developer)
  
 -Validate in which branch I am
-    $ git branch
+
+     $ git branch
    
  -Bring everything you have developer
-    $ git pull origin developer
+ 
+     $ git pull origin developer
    
  -Force to bring everything that originates
-    $ git pull origin developer --allow-unrelated-histories
+ 
+     $ git pull origin developer --allow-unrelated-histories
    
  
 
